@@ -65,7 +65,7 @@ Each department includes **2 PCs and 1 printer**, with the goal of achieving ful
 ## 📁 Repository Contents
 
 - `[project-file].pkt` – Cisco Packet Tracer project file
-- Topology diagrams / screenshots (if included)
+- Topology diagram screenshot
 
 ## 🚀 How to Open
 
