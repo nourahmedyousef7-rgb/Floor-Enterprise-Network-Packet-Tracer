@@ -73,10 +73,6 @@ Each department includes **2 PCs and 1 printer**, with the goal of achieving ful
 2. Open the `.pkt` file in this repository
 3. Use the simulation and command-line tools to explore the configuration
 
-## 🙌 Acknowledgments
-
-Thanks to the **National Telecommunication Institute (NTI)** and my instructor for the hands-on training that made this project possible.
-
 ---
 
 ## Author
